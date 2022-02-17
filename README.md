@@ -1,4 +1,6 @@
-<h1>Hello Everyone, Ian here! Welcome to my Github page</h1>
+<h1>Hello Everyone, Ian here!</h1> 
+  
+  <h3>Welcome to my Github page</h3>
 
 <h4>🏳️‍🌈 Currently level 31 with hopes of getting to a 100<br> 
   <br>
