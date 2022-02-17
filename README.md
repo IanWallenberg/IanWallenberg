@@ -6,7 +6,7 @@
   <br> 
 💻 Studying Front End Development at Hyper Island, with a touch of UX
   <br>
-🥐 Working part-time as a baker when I'm not working code<br>
+🥐 Working part-time as a baker when I'm not working code
   <br>
 🌞 Hobbies are; reading books, watching movies, and playing video games
   <br>
