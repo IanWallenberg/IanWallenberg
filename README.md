@@ -1,6 +1,6 @@
-<h1>Hello Everyone, Ian here! 🤓</h1> 
+<h1>Hello Everyone, Ian here!</h1> 
   
-  <h3>Welcome to my Github page</h3>
+  <h3>Welcome to my Github page 🤓</h3>
 
 <p>🏳️‍🌈 Currently Level/Year 31 with hopes of getting to a 100<br>
   <br>
