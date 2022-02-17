@@ -2,7 +2,7 @@
   
   <h3>Welcome to my Github page</h3>
 
-<h4>🏳️‍🌈 Currently Level 31 with hopes of getting to a 100
+<h4><em>🏳️‍🌈 Currently Level 31 with hopes of getting to a 100
   <br> 
 💻 Studying Front End Development at Hyper Island, with a touch of UX
   <br>
@@ -10,4 +10,4 @@
   <br>
 🌞 Hobbies are; reading books, watching movies, and playing video games
   <br>
-  :fire: Experienced with Firebase, Wordpress, Phaser and React</h4>
+  :fire: Experienced with Firebase, Wordpress, Phaser and React</em></h4>
