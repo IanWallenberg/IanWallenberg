@@ -8,7 +8,6 @@
   <br>
 🥐 Working part-time as a baker<br>
   <br>
-🌞 When I'm not coding or baking, I'm reading books, watching movies, and playing video games
-  <br</h4>
+🌞 When I'm not coding or baking, I'm reading books, watching movies, and playing video games<br></h4>
    <h4>  :fire: Have experience in Firebase, Wordpress, Phaser and React
       </h4>
