@@ -4,7 +4,13 @@
   
   <h4>Ian Wallenberg is my name, which, is probably no surprise</h4>
 
-🏳️‍🌈 Currently level 31 with hopes of getting to a 100<br> 
- 💻 Studying Front End Development at Hyper Island, with hopes of becoming a good programmer or UX designer</br>
-🥐 Working as a baker on the side when I don't dive into code<br>
-🌞 When I'm not coding or baking, I'm reading books, watching movies, playing video games or doing nothing at all 🌞
+<h5>🏳️‍🌈 Currently level 31 with hopes of getting to a 100<br> 
+  <br>
+💻 Studying Front End Development at Hyper Island</br>
+  <br>
+🥐 Working part-time as a baker<br>
+  <br>
+🌞 When I'm not coding or baking, I'm reading books, watching movies, and playing video games
+  <br
+     :fire: Have experience in Firebase, Wordpress, Phaser and React
+      </h5>
