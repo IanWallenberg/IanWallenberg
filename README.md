@@ -13,5 +13,5 @@
   :fire: Experienced with Firebase, Wordpress, Phaser and React
 <br>
   <br>
-  <a href="https://www.linkedin.com/in/ian-wallenberg-258bb521b/>My LinkedIn
+  <a href="https://www.linkedin.com/in/ian-wallenberg-258bb521b/">My LinkedIn
 <a href="https://www.instagram.com/Vincentthefox/">My Instagram</p>
