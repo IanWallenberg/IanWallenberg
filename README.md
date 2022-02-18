@@ -6,7 +6,7 @@
 💻 Studying Front End Development at Hyper Island, mixing programming with Agile methods and user research<br>
 🥐 Working part-time as a baker when I'm not working code<br>
 🌞 Hobbies are; reading books, watching movies, and playing video games<br>
-  :fire: Experienced with Firebase, Wordpress, Phaser, UX, React and much more! 
+  :fire: Experienced with Firebase, Wordpress, Phaser, UX, React etc
   <br>
   🌊 I like minimalistic clean designs, inspired by Japanese architecture and art, less is more
   <br>
