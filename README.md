@@ -11,7 +11,5 @@
   🌊 I like minimalistic clean designs, inspired by Japanese architecture and art, less is more
   <br>
   💙 <a href="https://www.mikiyakobayashi.com/">Inspiration
-  <br>
-  💼 <a href="https://www.linkedin.com/in/ian-wallenberg-258bb521b/">My LinkedIn
-    <br>
-📷 <a href="https://www.instagram.com/Vincentthefox/">My Instagram</p>
+   💼 <a href="https://www.linkedin.com/in/ian-wallenberg-258bb521b/">My LinkedIn
+ 📷 <a href="https://www.instagram.com/Vincentthefox/">My Instagram</p>
