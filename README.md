@@ -3,10 +3,10 @@
   <h3>Welcome to my Github page 🤓</h3>
 
 <p>🏳️‍🌈 Currently Level/Year 31<br>
-💻 Studying Front End Development at Hyper Island, with a touch of UX<br>
+💻 Studying Front End Development at Hyper Island until March 2023<br>
 🥐 Working part-time as a baker when I'm not working code<br>
 🌞 Hobbies are; reading books, watching movies, and playing video games<br>
-  :fire: Experienced with Firebase, Wordpress, Phaser, React and much more! 
+  :fire: Experienced with Firebase, Wordpress, Phaser, UX, React and much more! 
   <br>
   🌊 I like minimalistic clean designs, inspired by Japanese architecture and art, less is more
   <br>
