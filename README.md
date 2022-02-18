@@ -8,6 +8,8 @@
 🌞 Hobbies are; reading books, watching movies, and playing video games<br>
   :fire: Experienced with Firebase, Wordpress, Phaser, React and much more! 
   <br>
+  🌊 I like minimalistic designs, inspired by Japanese architecture and art, wooden white simplicity
+  <br>
   💼 <a href="https://www.linkedin.com/in/ian-wallenberg-258bb521b/">My LinkedIn
     <br>
 📷 <a href="https://www.instagram.com/Vincentthefox/">My Instagram</p>
