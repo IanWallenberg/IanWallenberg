@@ -10,4 +10,8 @@
   <br>
 🌞 Hobbies are; reading books, watching movies, and playing video games<br>
   <br>
-  :fire: Experienced with Firebase, Wordpress, Phaser and React</p>
+  :fire: Experienced with Firebase, Wordpress, Phaser and React
+<br>
+  <br>
+  <a href="https://www.linkedin.com/in/ian-wallenberg-258bb521b/
+<a href="https://www.instagram.com/Vincentthefox/">My Instagram</p>
