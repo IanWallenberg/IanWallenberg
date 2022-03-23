@@ -1,12 +1,12 @@
-<h1>Hello Everyone, Ian here!</h1> 
+<h1>Hello everyone, I'm Ian!</h1> 
   
   <h3>Welcome to my Github page 🤓</h3>
 
 <p>🏳️‍🌈 Currently Level/Year 31<br>
-💻 Studying Front End Development at Hyper Island, mixing programming with Agile methods and user research<br>
+💻 Studying Front End Development at Hyper Island, blending programming with Agile methods and user research into a nice smoothie of knowledge<br>
 🥐 Working part-time as a baker when I'm not working code<br>
 🌞 Hobbies are; reading books, watching movies, and playing video games<br>
-  :fire: Experienced with Firebase, Wordpress, Phaser, UX, React etc
+  :fire: Experienced with Firebase, Wordpress, Phaser, UX, React, MongoDB etc
   <br>
   🌊 I like minimalistic clean designs, inspired by Japanese architecture and art, less is more
   <br>
