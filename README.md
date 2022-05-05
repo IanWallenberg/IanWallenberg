@@ -14,6 +14,7 @@
   💙 <a href="https://www.mikiyakobayashi.com/">Inspiration
    💼 <a href="https://www.linkedin.com/in/ian-wallenberg-258bb521b/">LinkedIn
  📷 <a href="https://www.instagram.com/Vincentthefox/">Instagram</p>
+  <a href="https://www.ianwallenberg.com/">Portfolio</p>
   
  <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanWallenberg)](https://github.com/IanWallenberg/github-readme-stats)
   
