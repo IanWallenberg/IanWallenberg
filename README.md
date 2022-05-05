@@ -16,6 +16,6 @@
  📷 <a href="https://www.instagram.com/Vincentthefox/">Instagram
  💼 <a href="https://www.ianwallenberg.com/">Portfolio</p>
   
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanWallenberg)](https://github.com/IanWallenberg/github-readme-stats)
+ <!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanWallenberg)](https://github.com/IanWallenberg/github-readme-stats) -->
   
-  <aside>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanWallenberg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</aside>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanWallenberg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
