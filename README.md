@@ -1,8 +1,8 @@
 <h1>Hello everyone!</h1> 
- <h3>Welcome to my Github page 🤓</h3>
+ <h3>Welcome to my Github page</h3>
 
 <p>💻 Front End Developer student at Hyper Island 2021-2023<br><br>
-🌞 Into old school video games, Japanese culture and baking<br><br>
+⛩ Into old school video games, Japanese culture and baking<br><br>
   :fire: Experienced with Firebase, Figma, Phaser, UX/UI, React, MongoDB etc
   <br><br>
   🌊 I like minimalistic clean designs, inspired by Japanese architecture and art, less is more
