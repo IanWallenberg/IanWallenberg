@@ -1,19 +1,17 @@
-<h1>Hello everyone, I'm Ian!</h1> 
-  
-  <h3>Welcome to my Github page 🤓</h3>
+<h1>Hello everyone!</h1> 
+ <h3>Welcome to my Github page 🤓</h3>
 
-<p>💻 Studying Front End Development at Hyper Island 2021-2023, a mix of Front End, Back End, Agile methods and UX/UI<br>
-🤓 Would love to work mainly with a focus on HTML, CSS and React JS<br>
-🌞 Hobbies are; reading books, watching movies, and playing video games<br>
-  :fire: Experienced with Firebase, Figma, Phaser, UX, React, MongoDB etc
-  <br>
+<p>💻 Front End Developer student at Hyper Island 2021-2023<br><br>
+🌞 Into old school video games, Japanese culture and baking<br><br>
+  :fire: Experienced with Firebase, Figma, Phaser, UX/UI, React, MongoDB etc
+  <br><br>
   🌊 I like minimalistic clean designs, inspired by Japanese architecture and art, less is more
-  <br>
+  <br><br>
   💙 <a href="https://www.mikiyakobayashi.com/">Inspiration
    💼 <a href="https://www.linkedin.com/in/ian-wallenberg-258bb521b/">LinkedIn
  📷 <a href="https://www.instagram.com/Vincentthefox/">Instagram
  💼 <a href="https://www.ianwallenberg.com/">Portfolio</p>
   
- <!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanWallenberg)](https://github.com/IanWallenberg/github-readme-stats) -->
+ <!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanWallenberg)](https://github.com/IanWallenberg/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanWallenberg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanWallenberg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--->
