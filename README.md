@@ -1,11 +1,11 @@
 <h1>Hello everyone! Welcome to my Github page</h1>
 
-<p>💻 Front End Developer student at Hyper Island 2021-2023<br><br>
-⛩ Into old school video games, Japanese culture and baking<br><br>
+<p>💻 Front End Developer student at Hyper Island 2021-2023<br>
+⛩ Into old school video games, Japanese culture and baking<br>
   :fire: Experienced with Firebase, Figma, Phaser, UX/UI, React, MongoDB etc
-  <br><br>
+  <br>
   🌊 I like minimalistic clean designs, inspired by Japanese architecture and art, less is more
-  <br><br>
+  <br>
   💙 <a href="https://www.mikiyakobayashi.com/">Inspiration
    💼 <a href="https://www.linkedin.com/in/ian-wallenberg-258bb521b/">LinkedIn
  📷 <a href="https://www.instagram.com/Vincentthefox/">Instagram
