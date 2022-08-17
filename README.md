@@ -2,10 +2,8 @@
   
   <h3>Welcome to my Github page 🤓</h3>
 
-<p>🏳️‍🌈 Currently Level/Year 31<br>
-💻 Studying Front End Development at Hyper Island 2021-2023, a mix of Front End, Back End, Agile methods and UX/UI<br>
+<p>💻 Studying Front End Development at Hyper Island 2021-2023, a mix of Front End, Back End, Agile methods and UX/UI<br>
 🤓 Would love to work mainly with a focus on HTML, CSS and React JS<br>
-🥐 Working part-time as a baker when I'm not working code<br>
 🌞 Hobbies are; reading books, watching movies, and playing video games<br>
   :fire: Experienced with Firebase, Figma, Phaser, UX, React, MongoDB etc
   <br>
