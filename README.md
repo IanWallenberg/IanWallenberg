@@ -1,4 +1,4 @@
-<h1>Hello everyone! Welcome to my Github page</h1>
+<h3>Hello everyone! Welcome to my Github page</h3>
 
 <p>💻 Front End Developer student at Hyper Island 2021-2023<br>
 ⛩ Into old school video games, Japanese culture and baking<br>
