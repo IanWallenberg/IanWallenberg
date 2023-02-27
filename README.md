@@ -2,7 +2,7 @@
 
 <p>💻 Front End Developer student at Hyper Island 2021-2023<br>
 ⛩ Into old school video games, Japanese culture and baking<br>
-  :fire: Experienced with Firebase, Figma, Phaser, UX/UI, React, MongoDB etc
+  :fire: Experienced with Firebase, Figma, Phaser, UX/UI, React, Vue, Vuetify, MongoDB etc
   <br>
   🌊 I like minimalistic clean designs, inspired by Japanese architecture and art, less is more
   <br>
