@@ -1,6 +1,7 @@
 <h3>Hello everyone! Welcome to my Github page</h3>
 
 <p>💻 Front End Developer student at Hyper Island 2021-2023<br>
+🐍 Currently learning Python<br>
 ⛩ Into old school video games, Japanese culture and baking<br>
   :fire: Experienced with HTML, CSS, JS, Firebase, Figma, Phaser, UX/UI, React, Vue, Vuetify, MongoDB etc
   <br>
